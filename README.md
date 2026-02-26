@@ -32,7 +32,7 @@ Use a **thin, cellofane, flexible craft film sheet** (pre-cut square sheets). It
 
 ---
 
-## Recommended print materials (your validated setup)
+## Recommended print materials
 
 - **TPU 95A:**  
   - `Eye v9.stl`  
