@@ -40,7 +40,7 @@ Use a **thin, cellofane, flexible craft film sheet** (pre-cut square sheets). It
 
 - **PLA:**  
   - `Face v5.stl`  
-  - `Stick v2.stl`
+  - `Plunger v2.stl`
 
 All parts are designed for **friction-fit assembly** (no hardware).
 
