@@ -68,7 +68,7 @@ These are generic starting points—tune to your printer/material.
 - Press `Eye support v3.stl` into the socket area of `Face v5.stl`.
 
 ### 2) Place the film (critical)
-- Lay one square sheet of film **flat over the support opening**, centered.
+- Cut a small section of the square sheet of film and lay it **flat over the support**, centered.
 
 ### 3) Install the eye module (clamps the film)
 - Press `Eye v9.stl` into the support so the film is **captured and tensioned** between:
