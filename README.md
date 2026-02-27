@@ -5,13 +5,16 @@
 > **License:** CC0-1.0 (public domain dedication)  
 > **Intended use:** training/education only (not a medical device)
 
-This project represents a collaborative work by:
--**Ophthalmology department, Unidade Local de Saude Santa Maria**
--**Faculdade de Medicina da Universidade de Lisboa**
--**Ophthalmology department, Unidade Local de Saude Sao Jose**
--**Universidade de Coimbra Faculdade de Medicina**
--**Universidade Nova de Lisboa Medical School**
--**Mass. Eye and Ear**
+---
+
+## This project represents a collaborative work by:
+
+- **Ophthalmology department, Unidade Local de Saude Santa Maria**
+- **Faculdade de Medicina da Universidade de Lisboa**
+- **Ophthalmology department, Unidade Local de Saude Sao Jose**
+- **Universidade de Coimbra Faculdade de Medicina**
+- **Universidade Nova de Lisboa Medical School**
+- **Mass. Eye and Ear**
 
 ---
 
