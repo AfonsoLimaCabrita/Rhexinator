@@ -58,7 +58,7 @@ All parts are designed for **friction-fit assembly** (no hardware).
 ### Baseline print settings (starting points)
 These are generic starting points—tune to your printer/material.
 
-*### PLA (Face, Stick)
+### PLA (Face, Stick)
 - Layer height: **0.20 mm**
 - Perimeters/walls: **2**
 - Infill: **15–25%**
