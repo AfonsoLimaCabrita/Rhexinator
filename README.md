@@ -66,7 +66,8 @@ These are generic starting points—tune to your printer/material.
 
 ### TPU 95A (Eye, Eye support)
 - Print speed: **Slow** (TPU-appropriate)
-- Layer height: **0.20 mm**
+- Layer height: **0.20 mm / 0.08mm (For top surface of Eye support)**
+- Seam: **Opposite to corneal incision**
 - Surface pattern: **Circular** (all surfaces)
 - Perimeters/walls: **4** (for durable edges)
 - Retraction: **1.5 mm**
