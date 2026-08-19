@@ -22,8 +22,8 @@
 
 Current printable parts (STL):
 
-- `Face v5.stl` — upper half of the face/orbit housing  
-- `Eye support v3.stl` — socket adapter / support that seats in the orbit and clamps the film  
+- `Face v6.stl` — upper half of the face/orbit housing  
+- `Eye support v7.stl` — socket adapter / support that seats in the orbit and clamps the film  
 - `Eye v10.stl` — eye module with iris + cornea + corneal incisions  
 - `Stick v2.stl` — plunger/stick used to set eye height within the face (exposure/working depth)
 
